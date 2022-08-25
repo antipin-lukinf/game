@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\antip\\Desktop\\учеба\\Новая папка\\Новая папка.csproj",
+      "projectUniqueName": "C:\\Users\\antip\\Desktop\\учеба\\игра\\Новая папка.csproj",
       "projectName": "Новая папка",
-      "projectPath": "C:\\Users\\antip\\Desktop\\учеба\\Новая папка\\Новая папка.csproj",
+      "projectPath": "C:\\Users\\antip\\Desktop\\учеба\\игра\\Новая папка.csproj",
       "packagesPath": "C:\\Users\\antip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\antip\\Desktop\\учеба\\Новая папка\\obj\\",
+      "outputPath": "C:\\Users\\antip\\Desktop\\учеба\\игра\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\antip\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }
